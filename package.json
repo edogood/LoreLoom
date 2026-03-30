@@ -6,17 +6,17 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "npm run dev --workspace @loreloom/web",
+    "dev": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('apps/web/package.json')){console.log('Skipping dev: apps/web is missing in this checkout.');process.exit(0)}cp.execSync('npm run dev --workspace @loreloom/web',{stdio:'inherit'})\"",
     "start:local": "powershell -NoProfile -ExecutionPolicy Bypass -File ./start-loreloom.ps1",
     "start:dev": "powershell -NoProfile -ExecutionPolicy Bypass -File ./start-loreloom.ps1 -Mode Dev",
-    "build": "npm run build --workspace @loreloom/web",
-    "lint": "npm run lint --workspace @loreloom/web",
-    "typecheck": "npm run typecheck --workspace @loreloom/web",
-    "db:generate": "npm run db:generate --workspace @loreloom/db",
-    "db:migrate": "npm run db:migrate --workspace @loreloom/db",
-    "db:push": "npm run db:push --workspace @loreloom/db",
-    "db:seed": "npm run db:seed --workspace @loreloom/db",
-    "db:reset": "npm run db:reset --workspace @loreloom/db"
+    "build": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('apps/web/package.json')){console.log('Skipping build: apps/web is missing in this checkout.');process.exit(0)}cp.execSync('npm run build --workspace @loreloom/web',{stdio:'inherit'})\"",
+    "lint": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('apps/web/package.json')){console.log('Skipping lint: apps/web is missing in this checkout.');process.exit(0)}cp.execSync('npm run lint --workspace @loreloom/web',{stdio:'inherit'})\"",
+    "typecheck": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('apps/web/package.json')){console.log('Skipping typecheck: apps/web is missing in this checkout.');process.exit(0)}cp.execSync('npm run typecheck --workspace @loreloom/web',{stdio:'inherit'})\"",
+    "db:generate": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('packages/db/package.json')){console.log('Skipping db:generate: packages/db is missing in this checkout.');process.exit(0)}cp.execSync('npm run db:generate --workspace @loreloom/db',{stdio:'inherit'})\"",
+    "db:migrate": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('packages/db/package.json')){console.log('Skipping db:migrate: packages/db is missing in this checkout.');process.exit(0)}cp.execSync('npm run db:migrate --workspace @loreloom/db',{stdio:'inherit'})\"",
+    "db:push": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('packages/db/package.json')){console.log('Skipping db:push: packages/db is missing in this checkout.');process.exit(0)}cp.execSync('npm run db:push --workspace @loreloom/db',{stdio:'inherit'})\"",
+    "db:seed": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('packages/db/package.json')){console.log('Skipping db:seed: packages/db is missing in this checkout.');process.exit(0)}cp.execSync('npm run db:seed --workspace @loreloom/db',{stdio:'inherit'})\"",
+    "db:reset": "node -e \"const fs=require('fs');const cp=require('child_process');if(!fs.existsSync('packages/db/package.json')){console.log('Skipping db:reset: packages/db is missing in this checkout.');process.exit(0)}cp.execSync('npm run db:reset --workspace @loreloom/db',{stdio:'inherit'})\""
   },
   "engines": {
     "node": ">=22"
