@@ -1,0 +1,327 @@
+
+> dev
+> npm run dev --workspace @loreloom/web
+
+
+> dev
+> next dev
+
+   ▲ Next.js 15.5.14
+   - Local:        http://localhost:3000
+   - Network:      http://10.1.44.59:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 5.4s
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 9.6s (740 modules)
+ GET /dashboard 200 in 225ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1157ms (731 modules)
+ GET / 307 in 1744ms
+ ✓ Compiled /dashboard in 271ms (459 modules)
+ GET /dashboard 200 in 353ms
+ ○ Compiling /worlds/[worldSlug]/maps/city/[mapId] ...
+ ✓ Compiled /worlds/[worldSlug]/maps/city/[mapId] in 5.2s (1168 modules)
+ GET /worlds/aurelian-reach/maps/city/cmnd5gvuz0029kk5csjqhci0t 200 in 7184ms
+ ○ Compiling /worlds/[worldSlug]/graph ...
+ ✓ Compiled /worlds/[worldSlug]/graph in 2.8s (1508 modules)
+ GET /worlds/aurelian-reach/graph 200 in 5410ms
+ ○ Compiling /api/graph/views/[graphViewId] ...
+ ✓ Compiled /api/graph/views/[graphViewId] in 1865ms (1523 modules)
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 3981ms
+ ○ Compiling /api/graph/views/[graphViewId]/nodes ...
+ ✓ Compiled /api/graph/views/[graphViewId]/nodes in 679ms (1525 modules)
+ ○ Compiling /api/entities/[entityId] ...
+ ✓ Compiled /api/entities/[entityId] in 814ms (1528 modules)
+ PATCH /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 200 in 2068ms
+ GET /api/entities/cmnd5gvhr000ckk5cfz03r7xu 200 in 1363ms
+ ○ Compiling /worlds/[worldSlug]/entities/[entitySlug] ...
+ ✓ Compiled /worlds/[worldSlug]/entities/[entitySlug] in 4s (1664 modules)
+ GET /api/entities/cmnd5gvhr000ckk5cfz03r7xu 200 in 3455ms
+ ○ Compiling /worlds/[worldSlug]/maps/world ...
+ ✓ Compiled /worlds/[worldSlug]/maps/world in 1989ms (1686 modules)
+ GET /worlds/aurelian-reach/maps/world 200 in 4922ms
+ GET /worlds/aurelian-reach/entities/redwake-harbor 500 in 9589ms
+ POST /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 201 in 152ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 118ms
+ GET /worlds/aurelian-reach/entities/redwake-harbor 500 in 1165ms
+ GET /worlds/aurelian-reach/graph 200 in 435ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 136ms
+ GET /api/entities/cmnd5gviu000kkk5cd1am3n4f 200 in 125ms
+ GET /api/entities/cmnd5gvib000gkk5c7ylrmtqh 200 in 81ms
+ PATCH /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 200 in 119ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 81ms
+ GET /worlds/aurelian-reach/maps/world 200 in 143ms
+ ○ Compiling /api/worlds/[worldSlug]/maps ...
+ ✓ Compiled /api/worlds/[worldSlug]/maps in 6.1s (2262 modules)
+ POST /api/worlds/aurelian-reach/maps 422 in 8562ms
+ ○ Compiling /worlds/[worldSlug]/maps/world/[mapId] ...
+ ✓ Compiled /worlds/[worldSlug]/maps/world/[mapId] in 2s (2272 modules)
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 200 in 4244ms
+ ○ Compiling /worlds/[worldSlug]/settings ...
+ ✓ Compiled /worlds/[worldSlug]/settings in 1211ms (2264 modules)
+ GET /worlds/aurelian-reach/settings 200 in 3161ms
+ GET /worlds/aurelian-reach/maps/world 200 in 130ms
+ GET /worlds/aurelian-reach/graph 200 in 141ms
+ ○ Compiling /api/graph/views/[graphViewId] ...
+ ✓ Compiled /api/graph/views/[graphViewId] in 742ms (941 modules)
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 932ms
+ ○ Compiling /api/entities/[entityId] ...
+ ✓ Compiled /api/entities/[entityId] in 553ms (944 modules)
+ GET /api/entities/cmnd5gvhf000akk5c4vmfhiyl 200 in 738ms
+ GET /worlds/aurelian-reach/graph 200 in 758ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 121ms
+ GET /api/entities/cmnd5gvhf000akk5c4vmfhiyl 200 in 84ms
+ ○ Compiling /api/graph/nodes/[nodeId] ...
+ ✓ Compiled /api/graph/views/[graphViewId]/nodes in 2.6s (1683 modules)
+ GET /api/entities/cmnd5gvi1000ekk5cwij4pnr7 200 in 1244ms
+ GET /worlds/aurelian-reach/graph 200 in 1897ms
+ GET /api/entities/cmnd5gvj8000mkk5c45ng0ui5 200 in 195ms
+ GET /api/entities/cmnd5gvjv000qkk5c9ewwfs82 200 in 199ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 197ms
+ DELETE /api/graph/nodes/cmnd5gvn2001hkk5czhrcbgou 200 in 4556ms
+ DELETE /api/graph/edges/cmnd5gvr0001xkk5cuvirv76p 200 in 5137ms
+prisma:error 
+Invalid `prisma.graphEdge.delete()` invocation:
+
+
+An operation failed because it depends on one or more records that were required but not found. No record was found for a delete.
+prisma:error 
+Invalid `prisma.graphEdge.delete()` invocation:
+
+
+An operation failed because it depends on one or more records that were required but not found. No record was found for a delete.
+ DELETE /api/graph/nodes/cmnd5gvn9001okk5ci6cw766p 200 in 3545ms
+ DELETE /api/graph/nodes/cmnd5gvn2001ekk5cydziscvd 200 in 5285ms
+prisma:error 
+Invalid `prisma.graphEdge.delete()` invocation:
+
+
+An operation failed because it depends on one or more records that were required but not found. No record was found for a delete.
+ GET /api/entities/cmnd5gvhr000ckk5cfz03r7xu 200 in 120ms
+ DELETE /api/graph/edges/cmnd5gvr0001ykk5c3wt3wbfw 404 in 88ms
+ DELETE /api/graph/edges/cmnd5gvr00021kk5cukhmg798 404 in 205ms
+ DELETE /api/graph/edges/cmnd5gvr0001wkk5cyz27ayd8 404 in 205ms
+ DELETE /api/graph/edges/cmnd5gvr0001ukk5c40qtfzzm 404 in 204ms
+ DELETE /api/graph/nodes/cmnd5gvn2001ikk5cy9eyz5pv 404 in 209ms
+ GET /api/entities/cmnd5gvhf000akk5c4vmfhiyl 200 in 84ms
+ DELETE /api/graph/nodes/cmnd5gvn2001jkk5ck0mt9bu1 404 in 65ms
+ GET /api/entities/cmnd5gvil000ikk5cfajgus0o 200 in 81ms
+ DELETE /api/graph/edges/cmnd5gvr00022kk5caelm3me9 200 in 164ms
+ DELETE /api/graph/nodes/cmnd5gvn2001kkk5ca6xfgzbr 200 in 187ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 117ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 73ms
+ GET /api/entities/cmnd5gvjv000qkk5c9ewwfs82 200 in 116ms
+ DELETE /api/graph/nodes/cmnd5gvn8001mkk5c001o421z 200 in 81ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 68ms
+ GET /api/entities/cmnd5gvjk000okk5czx71pgm0 200 in 71ms
+ DELETE /api/graph/nodes/cmnd5gvn2001gkk5c5kxnhu3e 200 in 104ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 56ms
+ GET /api/entities/cmnd5gvib000gkk5c7ylrmtqh 200 in 64ms
+ DELETE /api/graph/nodes/cmnd5gvn2001dkk5cfnbqnvb7 200 in 76ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 95ms
+ POST /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 201 in 118ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 69ms
+ GET /api/entities/cmnd5gviu000kkk5cd1am3n4f 200 in 70ms
+ GET /worlds/aurelian-reach/entities/drowned-observatory-chain 500 in 705ms
+ GET /worlds/aurelian-reach/graph 200 in 425ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 85ms
+ ○ Compiling /worlds/[worldSlug]/wiki ...
+ ✓ Compiled /worlds/[worldSlug]/wiki in 1843ms (1693 modules)
+ GET /worlds/aurelian-reach/wiki 200 in 3891ms
+ ○ Compiling /worlds/[worldSlug]/wiki/[wikiSlug] ...
+ ✓ Compiled /worlds/[worldSlug]/wiki/[wikiSlug] in 1094ms (1701 modules)
+ GET /worlds/aurelian-reach/wiki/drowned-observatory-chain 200 in 2841ms
+ GET /worlds/aurelian-reach/graph 200 in 467ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 113ms
+ POST /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 201 in 86ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 74ms
+ POST /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 201 in 80ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 65ms
+ POST /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 201 in 73ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 84ms
+ POST /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 201 in 70ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 50ms
+ POST /api/graph/views/cmnd5gvmr0016kk5cimkosfdn/nodes 201 in 110ms
+ GET /api/graph/views/cmnd5gvmr0016kk5cimkosfdn 200 in 82ms
+ ○ Compiling /worlds/[worldSlug]/media ...
+ ✓ Compiled /worlds/[worldSlug]/media in 6s (1698 modules)
+ GET /worlds/aurelian-reach/settings 200 in 526ms
+ GET /worlds/aurelian-reach/settings 200 in 356ms
+ ○ Compiling /worlds/[worldSlug] ...
+ GET /worlds/aurelian-reach/media 200 in 13260ms
+ ✓ Compiled /worlds/[worldSlug] in 2.7s (1687 modules)
+ GET /worlds/aurelian-reach 200 in 5975ms
+ ○ Compiling /worlds/[worldSlug]/maps/world ...
+ ✓ Compiled /worlds/[worldSlug]/maps/world in 617ms (849 modules)
+ GET /worlds/aurelian-reach/maps/world 200 in 985ms
+ ○ Compiling /api/worlds/[worldSlug]/maps ...
+ ✓ Compiled /api/worlds/[worldSlug]/maps in 1965ms (1461 modules)
+ POST /api/worlds/aurelian-reach/maps 422 in 2623ms
+ ○ Compiling /worlds/[worldSlug]/maps/world/[mapId] ...
+ ✓ Compiled /worlds/[worldSlug]/maps/world/[mapId] in 1476ms (1550 modules)
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 200 in 1895ms
+ ✓ Compiled in 2.6s (1674 modules)
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 200 in 653ms
+ ○ Compiling /_error ...
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 500 in 7597ms
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 500 in 66ms
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 500 in 87ms
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 500 in 59ms
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 500 in 1353ms
+ ✓ Compiled /_error in 5s (2022 modules)
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 200 in 1183ms
+ ✓ Compiled (2008 modules)
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 200 in 603ms
+ ✓ Compiled in 888ms (923 modules)
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 200 in 272ms
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 500 in 79ms
+ GET /worlds/aurelian-reach/maps/world/cmnd5gvu60024kk5c03nw0ozs 500 in 69ms
+ ✓ Compiled in 3s (2022 modules)
+ ✓ Compiled in 2.3s (2022 modules)
+ ✓ Compiled in 826ms (923 modules)
+ ✓ Compiled in 1853ms (2022 modules)
+ ✓ Compiled in 2.2s (2024 modules)
+ ✓ Compiled in 444ms (924 modules)
+ ✓ Compiled in 503ms (924 modules)
+ ✓ Compiled in 563ms (924 modules)
+ ✓ Compiled in 492ms (924 modules)
+ ✓ Compiled in 634ms (924 modules)
+ ✓ Compiled in 2.8s (2024 modules)
+ ✓ Compiled in 1731ms (2035 modules)
+ ✓ Compiled in 1022ms (2035 modules)
+ ✓ Compiled in 903ms (2035 modules)
+ ✓ Compiled in 1906ms (2035 modules)
+ ✓ Compiled in 1369ms (2037 modules)
+ ✓ Compiled in 1096ms (2037 modules)
+ ✓ Compiled in 1956ms (2037 modules)
+ ✓ Compiled in 4.8s (2037 modules)
+ ✓ Compiled in 816ms (925 modules)
+ ✓ Compiled in 1073ms (2037 modules)
+ ✓ Compiled in 1072ms (2039 modules)
+ ✓ Compiled in 1048ms (2039 modules)
+ ✓ Compiled in 1681ms (2039 modules)
+ ✓ Compiled in 4s (2039 modules)
+ ✓ Compiled in 618ms (926 modules)
+ ✓ Compiled in 575ms (926 modules)
+ ✓ Compiled in 758ms (926 modules)
+ ✓ Compiled in 1088ms (926 modules)
+ ✓ Compiled in 533ms (926 modules)
+ ✓ Compiled in 746ms (926 modules)
+ ✓ Compiled in 473ms (926 modules)
+ ✓ Compiled in 1619ms (926 modules)
+ ✓ Compiled in 2.3s (2039 modules)
+ ✓ Compiled in 982ms (926 modules)
+ ✓ Compiled in 1173ms (926 modules)
+ ○ Compiling /worlds/[worldSlug]/timeline ...
+ ✓ Compiled /worlds/[worldSlug]/timeline in 5.3s (2042 modules)
+ GET /worlds/aurelian-reach/maps/world 500 in 8048ms
+ GET /worlds/aurelian-reach/maps/world 500 in 214ms
+ GET /worlds/aurelian-reach/graph 500 in 8099ms
+ GET /worlds/aurelian-reach/graph 500 in 215ms
+ GET /worlds/aurelian-reach/timeline 500 in 8409ms
+ GET /worlds/aurelian-reach/timeline 500 in 127ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1410ms (1125 modules)
+ GET / 500 in 2781ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 945ms (1127 modules)
+ GET /dashboard 500 in 2027ms
+ GET /dashboard 500 in 59ms
+ ○ Compiling /worlds/[worldSlug]/timeline ...
+ ✓ Compiled /worlds/[worldSlug]/timeline in 622ms (1130 modules)
+ GET /worlds/aurelian-reach/timeline 500 in 903ms
+ GET /worlds/aurelian-reach/timeline 500 in 65ms
+ GET /worlds/aurelian-reach/graph 500 in 202ms
+ GET /worlds/aurelian-reach/graph 500 in 69ms
+ GET /worlds/aurelian-reach/maps/world 500 in 273ms
+ GET /worlds/aurelian-reach/maps/world 500 in 95ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1754ms (2042 modules)
+ GET /app/worlds 500 in 2592ms
+ GET /app/worlds 500 in 54ms
+ ○ Compiling / ...
+ ✓ Compiled / in 893ms (1126 modules)
+ GET / 500 in 1769ms
+ GET / 500 in 106ms
+ GET / 500 in 963ms
+ GET / 500 in 184ms
+ GET / 500 in 235ms
+ GET / 500 in 90ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 676ms (1128 modules)
+ GET /dashboard 500 in 2108ms
+ GET /dashboard 500 in 70ms
+ ✓ Compiled in 1646ms (926 modules)
+ GET / 500 in 269ms
+ GET / 500 in 71ms
+ GET / 500 in 265ms
+ GET / 500 in 80ms
+ GET / 500 in 249ms
+ GET / 500 in 69ms
+ GET /dashboard 500 in 3418ms
+ GET /dashboard 500 in 66ms
+ ○ Compiling /worlds/[worldSlug]/timeline ...
+ ✓ Compiled /worlds/[worldSlug]/timeline in 634ms (1130 modules)
+ GET /worlds/aurelian-reach/timeline 500 in 904ms
+ GET /worlds/aurelian-reach/timeline 500 in 63ms
+ GET /worlds/aurelian-reach/graph 500 in 220ms
+ GET /worlds/aurelian-reach/graph 500 in 66ms
+ GET /worlds/aurelian-reach/maps/world 500 in 220ms
+ GET /worlds/aurelian-reach/maps/world 500 in 70ms
+ GET / 500 in 229ms
+ GET / 500 in 66ms
+ GET /dashboard 500 in 200ms
+ GET /dashboard 500 in 60ms
+ GET /worlds/aurelian-reach/timeline 500 in 213ms
+ GET /worlds/aurelian-reach/timeline 500 in 72ms
+ GET /worlds/aurelian-reach/graph 500 in 237ms
+ GET /worlds/aurelian-reach/graph 500 in 77ms
+ GET /worlds/aurelian-reach/maps/world 500 in 239ms
+ GET /worlds/aurelian-reach/maps/world 500 in 71ms
+ GET / 500 in 217ms
+ GET / 500 in 74ms
+ GET /dashboard 200 in 323ms
+ GET /worlds/aurelian-reach/timeline 200 in 121ms
+ GET /worlds/aurelian-reach/graph 200 in 136ms
+ GET /worlds/aurelian-reach/maps/world 200 in 91ms
+ GET / 500 in 1033ms
+ GET / 500 in 816ms
+ GET /dashboard 200 in 132ms
+ GET /dashboard 200 in 74ms
+ GET /dashboard 200 in 90ms
+ GET /dashboard 200 in 190ms
+ GET /dashboard 200 in 76ms
+ GET /worlds/aurelian-reach 200 in 105ms
+ GET /worlds/aurelian-reach/graph 200 in 168ms
+ ○ Compiling /worlds/[worldSlug]/entities ...
+ ✓ Compiled /worlds/[worldSlug]/entities in 3.3s (2063 modules)
+ ✓ Compiled in 983ms (931 modules)
+ GET /worlds/aurelian-reach/entities 500 in 6008ms
+ GET /worlds/aurelian-reach/graph 500 in 358ms
+ GET /worlds/aurelian-reach 500 in 590ms
+ GET /worlds/aurelian-reach 500 in 503ms
+ GET /dashboard 500 in 442ms
+ GET /worlds/aurelian-reach 500 in 538ms
+ GET /worlds/aurelian-reach 500 in 538ms
+ GET /dashboard 500 in 468ms
+ GET /worlds/aurelian-reach 500 in 459ms
+ GET /worlds/aurelian-reach 500 in 461ms
+ GET /dashboard 500 in 504ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 729ms (1116 modules)
+ GET /app/worlds 500 in 2339ms
+ GET /app/worlds 500 in 261ms
+ GET /app/worlds 500 in 1153ms
+ GET /app/worlds 500 in 246ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 720ms (1118 modules)
+ GET /dashboard 500 in 1908ms
+ GET /dashboard 500 in 918ms
+ GET /app/worlds 500 in 898ms
+ GET /app/worlds 500 in 246ms
+ GET /app 500 in 1515ms
+ GET /app 500 in 243ms
+ GET /dashboard 500 in 1116ms
+ GET /dashboard 500 in 755ms

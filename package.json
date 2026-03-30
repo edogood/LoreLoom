@@ -1,0 +1,24 @@
+{
+  "name": "loreloom",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @loreloom/web",
+    "start:local": "powershell -NoProfile -ExecutionPolicy Bypass -File ./start-loreloom.ps1",
+    "start:dev": "powershell -NoProfile -ExecutionPolicy Bypass -File ./start-loreloom.ps1 -Mode Dev",
+    "build": "npm run build --workspace @loreloom/web",
+    "lint": "npm run lint --workspace @loreloom/web",
+    "typecheck": "npm run typecheck --workspace @loreloom/web",
+    "db:generate": "npm run db:generate --workspace @loreloom/db",
+    "db:migrate": "npm run db:migrate --workspace @loreloom/db",
+    "db:push": "npm run db:push --workspace @loreloom/db",
+    "db:seed": "npm run db:seed --workspace @loreloom/db",
+    "db:reset": "npm run db:reset --workspace @loreloom/db"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

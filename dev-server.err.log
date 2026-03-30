@@ -1,0 +1,1893 @@
+ ⨯ Error: Tiptap Error: SSR has been detected, please set `immediatelyRender` explicitly to `false` to avoid hydration mismatches.
+    at RichTextEditor (src\components\ui\rich-text-editor.tsx:24:27)
+  22 |   editable?: boolean;
+  23 | }) {
+> 24 |   const editor = useEditor({
+     |                           ^
+  25 |     extensions: [
+  26 |       StarterKit,
+  27 |       Link.configure({ {
+  digest: '357140514'
+}
+ ⨯ Error: Tiptap Error: SSR has been detected, please set `immediatelyRender` explicitly to `false` to avoid hydration mismatches.
+    at RichTextEditor (src\components\ui\rich-text-editor.tsx:24:27)
+  22 |   editable?: boolean;
+  23 | }) {
+> 24 |   const editor = useEditor({
+     |                           ^
+  25 |     extensions: [
+  26 |       StarterKit,
+  27 |       Link.configure({ {
+  digest: '357140514'
+}
+ ⨯ Error: Tiptap Error: SSR has been detected, please set `immediatelyRender` explicitly to `false` to avoid hydration mismatches.
+    at RichTextEditor (src\components\ui\rich-text-editor.tsx:24:27)
+  22 |   editable?: boolean;
+  23 | }) {
+> 24 |   const editor = useEditor({
+     |                           ^
+  25 |     extensions: [
+  26 |       StarterKit,
+  27 |       Link.configure({ {
+  digest: '357140514'
+}
+ ⨯ ./src/components/graph/graph-studio.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\src\components\graph\graph-studio.tsx
+    1: Impossibile trovare il file specificato. (os error 2)
+
+Import trace for requested module:
+./src/components/graph/graph-studio.tsx
+ ⨯ ./src/components/graph/graph-studio.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\src\components\graph\graph-studio.tsx
+    1: Impossibile trovare il file specificato. (os error 2)
+
+Import trace for requested module:
+./src/components/graph/graph-studio.tsx
+./src/app/worlds/[worldSlug]/graph/page.tsx
+ ⨯ ./src/components/graph/graph-studio.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\src\components\graph\graph-studio.tsx
+    1: Impossibile trovare il file specificato. (os error 2)
+
+Import trace for requested module:
+./src/components/graph/graph-studio.tsx
+./src/app/worlds/[worldSlug]/graph/page.tsx
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ ./src/components/graph/graph-studio.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\src\components\graph\graph-studio.tsx
+    1: Impossibile trovare il file specificato. (os error 2)
+
+Import trace for requested module:
+./src/components/graph/graph-studio.tsx
+ ⨯ ./src/components/graph/graph-studio.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\src\components\graph\graph-studio.tsx
+    1: Impossibile trovare il file specificato. (os error 2)
+
+Import trace for requested module:
+./src/components/graph/graph-studio.tsx
+./src/app/worlds/[worldSlug]/graph/page.tsx
+ ⨯ ./src/components/graph/graph-studio.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\src\components\graph\graph-studio.tsx
+    1: Impossibile trovare il file specificato. (os error 2)
+
+Import trace for requested module:
+./src/components/graph/graph-studio.tsx
+ ⨯ ./src/components/graph/graph-studio.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\src\components\graph\graph-studio.tsx
+    1: Impossibile trovare il file specificato. (os error 2)
+
+Import trace for requested module:
+./src/components/graph/graph-studio.tsx
+./src/app/worlds/[worldSlug]/graph/page.tsx
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8652)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8737) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/maps/world'
+}
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15900)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15985) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8652)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8737) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/maps/world'
+}
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15900)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15985) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\vendor-chunks\lucide-react.js'
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:784:47)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:787:3) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\vendor-chunks\\lucide-react.js',
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\vendor-chunks\lucide-react.js'
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:784:47)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:787:3) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\vendor-chunks\\lucide-react.js',
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/dashboard'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/dashboard'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\vendor-chunks\lucide-react.js'
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:784:47)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:787:3) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\vendor-chunks\\lucide-react.js',
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\vendor-chunks\lucide-react.js'
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:784:47)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:787:3) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\vendor-chunks\\lucide-react.js',
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app\\worlds\\[worldSlug]\\graph\\page.js',
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app\\worlds\\[worldSlug]\\graph\\page.js',
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app\\worlds\\[worldSlug]\\maps\\world\\page.js',
+  page: '/worlds/aurelian-reach/maps/world'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app\\worlds\\[worldSlug]\\maps\\world\\page.js',
+  page: '/worlds/aurelian-reach/maps/world'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app-paths-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app-paths-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app-paths-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app-paths-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/dashboard'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json',
+  page: '/dashboard'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, stat 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\cache\webpack\server-development\1.pack.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\cache\\webpack\\server-development\\1.pack.gz'
+}
+ ⨯ unhandledRejection: [Error: ENOENT: no such file or directory, stat 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\cache\webpack\server-development\1.pack.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\cache\\webpack\\server-development\\1.pack.gz'
+}
+ ⨯ unhandledRejection:  [Error: ENOENT: no such file or directory, stat 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\cache\webpack\server-development\1.pack.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\cache\\webpack\\server-development\\1.pack.gz'
+}
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, stat 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\cache\webpack\server-development\1.pack.gz'
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app\\page.js',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\app\\page.js',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\routes-manifest.json'
+}
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Could not find the module "C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '950085138'
+}
+ ⨯ Error: Could not find the module "C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1456317363'
+}
+ ⨯ Error: Could not find the module "C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1456317363'
+}
+ ⨯ Error: Could not find the module "C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1456317363'
+}
+ ⨯ Error: Could not find the module "C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '950085138'
+}
+ ⨯ Error: Could not find the module "C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '950085138'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '3787361045'
+}
+ ⨯ Error: Could not find the module "C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '950085138'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/dashboard'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/dashboard'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7465)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7540) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7465)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7540) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15900)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15985) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15900)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15985) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8652)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8737) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/maps/world'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8652)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8737) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/maps/world'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js:2:10446)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js:2:10508) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/dashboard'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js:2:10446)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\dashboard\page.js:2:10508) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/dashboard'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7465)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7540) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7465)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js:2:7540) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/timeline'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15900)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15985) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15900)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:3:15985) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/graph'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8652)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8737) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/maps/world'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8652)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\maps\world\page.js:2:8737) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/maps/world'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+Error: Cannot find module './5591.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14717)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\page.js:2:14769) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './5611.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\timeline\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\options.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\swc\index.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\config.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\next.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:327)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\pages\_document.js:1:374) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/'
+}
+ ⨯ [Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\webpack-runtime.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\entities\page.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\require.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\load-components.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\build\utils.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\server\dev\static-paths-worker.js
+- C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\node_modules\next\dist\compiled\jest-worker\processChild.js] {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/worlds/aurelian-reach/entities'
+}
+ ⨯ Error: ENOENT: no such file or directory, open 'C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\vendor-chunks\zod.js'
+    at <unknown> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:848:47)
+    at Object.<anonymous> (C:\Users\BUONOED1\OneDrive - Reti\Documenti\Python\Personale\Loreloom\apps\web\.next\server\app\worlds\[worldSlug]\graph\page.js:851:3) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\BUONOED1\\OneDrive - Reti\\Documenti\\Python\\Personale\\Loreloom\\apps\\web\\.next\\server\\vendor-chunks\\zod.js',
+  page: '/worlds/aurelian-reach/graph'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+ ⨯ TypeError: Cannot read properties of null (reading 'useState')
+    at AppProviders (src\components\providers\app-providers.tsx:8:33)
+   6 |
+   7 | export function AppProviders({ children }: { children: React.ReactNode }) {
+>  8 |   const [queryClient] = useState(
+     |                                 ^
+   9 |     () =>
+  10 |       new QueryClient({
+  11 |         defaultOptions: { {
+  digest: '4253345641'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/dashboard'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/dashboard'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/dashboard'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '812602321'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/dashboard'
+}
