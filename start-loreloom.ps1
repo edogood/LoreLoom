@@ -84,6 +84,10 @@ function Ensure-Command {
 }
 
 function Ensure-Dependencies {
+  if (-not (Test-Path $webRoot)) {
+    throw "Missing workspace path: $webRoot. This checkout does not contain the web app."
+  }
+
   if ($ForceInstall -or -not (Test-Path $nodeModulesPath)) {
     Write-Host "Installing dependencies..." -ForegroundColor Cyan
     npm install
